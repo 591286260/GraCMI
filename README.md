@@ -15,4 +15,4 @@ Usage:
 (2) Generate positive and negative samples for further analysis.  
 (3) Use grarep.py to extract global structural features of the molecule.  
 (4) Match positive and negative samples with features.  
-(5) Use xgboost.py to predict CMI.  
+(5) Use xgboost.py to predict CMIs.  
